@@ -105,3 +105,8 @@ venv.bak/
 
 # macOS useless file
 .DS_Store
+
+# datasets
+*.csv
+*.tgz
+*.mat
