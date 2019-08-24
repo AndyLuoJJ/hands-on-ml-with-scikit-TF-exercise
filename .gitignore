@@ -110,3 +110,6 @@ venv.bak/
 *.csv
 *.tgz
 *.mat
+
+# VSCode configs
+.vscode
